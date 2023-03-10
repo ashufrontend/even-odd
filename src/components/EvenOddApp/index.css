@@ -1,0 +1,50 @@
+.bg-container {
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count-container {
+  background-color: #ff6e7f;
+  height: 360px;
+  width: 360px;
+  border-radius: 8px;
+  border: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: black;
+  font-weight: 700;
+}
+.even-odd-text {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #334155;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #334155;
+  background-color: aliceblue;
+  border-radius: 6px;
+  border-width: 1px;
+  border-color: black;
+  height: 30px;
+  width: 132px;
+}
+
+.sub-line {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #334155;
+}
